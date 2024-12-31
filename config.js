@@ -28,7 +28,7 @@ module.exports = {
 
 SESSION_ID: process.env.SESSION_ID || "7506773290:AAE2p9iQBkJ6vGJ35fjNqiHc5FQ6OCrSxM4",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", //TRUE OR FALSE
-OWNER_NUMBER: process.env.OWNER_NUMBER || "18062212660",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "50932699925",
 MODE: process.env.MODE || "public",  // PRIVATE OR PUBLIC
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
 AUTO_STICKER: process.env.AUTO_STICKER || "false",
@@ -42,7 +42,7 @@ FAKE_RECORDING: process.env.FAKE_RECORDING || "false",
 AUTO_REACT: process.env.AUTO_REACT || "false",
 HEART_REACT: process.env.HEART_REACT || "false",
 OWNER_REACT: process.env.OWNER_REACT || "false",
-BOT_NAME: process.env.BOT_NAME || "『 ＳＵＢＺＥＲＯ - ＭＤ 』",
+BOT_NAME: process.env.BOT_NAME || "『 VIALLY - ＭＤ 』",
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
 
